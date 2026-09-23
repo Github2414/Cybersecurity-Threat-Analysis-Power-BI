@@ -59,10 +59,11 @@ Screenshots of the dashboard will be added here.
 
 ## 📁 Project Files
 
-- `PowerBI_Project.pbix` – Power BI dashboard file
-- `Dataset.csv` – Dataset used for analysis
-- `Screenshots/` – Dashboard screenshots
+- `powerbi_project_itv.pbix` – Interactive Power BI dashboard file
+- Dashboard screenshots are displayed above in the README
+- Dataset obtained from an external source and not included in this repository
 
+- 
 ## 💡 Key Insights
 
 The dashboard helps identify patterns in cybersecurity attacks, vulnerabilities, their impact, and response strategies.
