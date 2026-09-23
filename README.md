@@ -43,7 +43,6 @@ Analyzes the impact of attacks and the response/mitigation measures taken.
 
 ## 🖼️ Dashboard Preview 
 
-Screenshots of the dashboard will be added here.
 
 ### 1. Global Threat Overview
 <img width="1436" height="806" alt="Screenshot 2026-09-23 211855" src="https://github.com/user-attachments/assets/4c651609-3b50-47e9-967b-bdc1abc43c08" />
@@ -63,7 +62,6 @@ Screenshots of the dashboard will be added here.
 - Dashboard screenshots are displayed above in the README
 - Dataset obtained from an external source and not included in this repository
 
-- 
 ## 💡 Key Insights
 
 The dashboard helps identify patterns in cybersecurity attacks, vulnerabilities, their impact, and response strategies.
